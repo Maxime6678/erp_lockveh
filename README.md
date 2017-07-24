@@ -21,5 +21,5 @@ You can use in your server.
 
 ### Coming soon
 
-- Hire/Fire employes
+- Sound
 - More ...
